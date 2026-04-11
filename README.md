@@ -15,7 +15,7 @@ git --version
 
 ## 4. このリポジトリをローカルにクローン
 ```
-git clone https://github.com/xxx/mac-setup.git
+git@github.com:ryjkmr/mac_setup.git
 ```
 
 ## 5. Homebrewをインストール
